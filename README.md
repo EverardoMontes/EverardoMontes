@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there 👋</h1>
 
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/LonelyIcyCusimanse-max-1mb.gif" width="100"/>
+  <img src="https://thumbs.gfycat.com/LonelyIcyCusimanse-max-1mb.gif" width="600" height="300"/>
 </div>
 
 <h2 align="center">My name is Everardo,I´m studying Software Engineering, I like programming and my passion is the videogames someday I will make one on my own.
