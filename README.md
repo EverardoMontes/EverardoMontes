@@ -11,7 +11,7 @@
 
 ### 
 <div align="center">
-  <img src="https://tenor.com/es-MX/view/penguin-dancing-club-penguin-moves-cute-gif-16514279" width="600" height="300"/>
+  <img src="https://tenor.com/es-MX/view/penguin-dancing-club-penguin-moves-cute-gif-16514279"/>
 </div>
 
 ---
@@ -42,4 +42,4 @@
   ---
   [![GitHub Streak](https://streak-stats.demolab.com?user=EverardoMontes&theme=dark)](https://git.io/streak-stats)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEverardoMontes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EverardoMontes)](https://github.com/anuraghazra/github-readme-stats)
