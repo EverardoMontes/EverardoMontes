@@ -41,6 +41,6 @@
 </div>
   
   ---
-  [![GitHub Streak](https://streak-stats.demolab.com?user=EverardoMontes)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=EverardoMontes&theme=dark)](https://git.io/streak-stats)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEverardoMontes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
