@@ -25,7 +25,7 @@
 - SQL
 - Javascript
 - HTML5
-- CSS6
+- CSS 3
 - Python
   
   ---
