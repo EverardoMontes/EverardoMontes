@@ -21,12 +21,15 @@
  I am a software engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
   
   I´m currently learning:
-- Unity
 - SQL
 - Javascript
 - HTML5
 - CSS 3
 - Python
+- NodeJs
+- Express
+- C#
+- Boostrap
   
   ---
   
