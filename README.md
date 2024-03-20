@@ -5,10 +5,9 @@
 </div>
 
 <h2 align="center">I am Everardo Montes, I´m currently studying Software Engineering. </h2>
-<p> I´m trying to focus on several areas but mostly back-end web development and videogames development. I like videogames, playing the guitar, hang out with my loved ones and do streams on Twitch. <b>I already have a game on itch.io!! </b>  <a href="https://evemonvie.itch.io/cleaner-survivor"> Please, try Cleaner Survivor on Windows!!!</a> <br> I have another game published on that platform named "Heavy Thoughts" but i stopped developing it</p> 
-<!--My name is Everardo,I´m studying Software Engineering, I like programming and my passion is the videogames someday I will make one on my own. -->
- 
-
+<div> 
+<p> I´m trying to focus on several areas but mostly back-end web development and videogames development. <b>I already have a game on itch.io!! </b>  <a href="https://evemonvie.itch.io/cleaner-survivor"> Please, try Cleaner Survivor on Windows!!!</a> <br> I have another game published on that platform named "Heavy Thoughts" but i stopped developing it</p> 
+</div>
 
 ### 
 <div align="center">
@@ -19,28 +18,26 @@
 
 ### :woman_technologist: About Me :
   
- I am a software engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
+ I am a software engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico. I like videogames, playing the guitar, hang out with my loved ones and do streams on Twitch. I like cats <img src="https://th.bing.com/th/id/OIP.vq0P_nej_VE1EcBdr7SS5gHaHa?rs=1&pid=ImgDetMain" width="30"> but i currently don´t have one, but i have a dog named Kira Queen. She is lovely.
   
   I´m currently learning:
 - SQL
 - Javascript
 - HTML5
-- CSS 3
-- Python
 - NodeJs
-- Express
 - C#
-- Boostrap
+- Unity
   
   ---
   
   ### :hammer_and_wrench: Languages and Tools :
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/OIP.hjW-5Sc-8lyI6vW4DgWrVAAAAA?rs=1&pid=ImgDetMain" title="C#" **alt="C#" width="40" height="40"/> 
+  <img src="https://clipartcraft.com/images/unity-logo-white-3.png" title="Unity" **alt="Unity" width="40" height="40"/> 
+  <img src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png" title="NodeJs" **alt="NodeJS" width="40" height="40"/>  
 </div>
   
   ---
