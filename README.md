@@ -11,7 +11,7 @@
 
 ### 
 <div align="center">
-  <img src="https://media.tenor.com/ded_wRra_HcAAAAi/penguin-dancing.gif" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/gdlv3kwB2c0AAAAd/dance-club-penguin.gif" width="600" height="300"/>
 </div>
 
 ---
