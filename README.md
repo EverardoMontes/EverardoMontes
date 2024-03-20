@@ -4,8 +4,9 @@
   <img src="https://thumbs.gfycat.com/LonelyIcyCusimanse-max-1mb.gif" width="600" height="300"/>
 </div>
 
-<h2 align="center">My name is Everardo,I´m studying Software Engineering, I like programming and my passion is the videogames someday I will make one on my own.
-
+<h2 align="center">I am Everardo Montes, I´m currently studying Software Engineering. </h2>
+<p> I´m trying to focus on several areas but mostly back-end web development and videogames development. I like videogames, playing the guitar, hang out with my loved ones and do streams on Twitch. <b>I already have a game on itch.io!! </b>  <a href="https://evemonvie.itch.io/cleaner-survivor"> Please, try Cleaner Survivor on Windows!!!</a> <br> I have another game published on that platform named "Heavy Thoughts" but i stopped developing it</p> 
+<!--My name is Everardo,I´m studying Software Engineering, I like programming and my passion is the videogames someday I will make one on my own. -->
  
 
 
