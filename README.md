@@ -6,7 +6,7 @@
 
 <h2 align="center">I am Everardo Montes, I´m currently studying Software Engineering. </h2>
 <div> 
-<p> I´m trying to focus on several areas but mostly back-end web development and videogames development. <b>I already have a game on itch.io!! </b>  <a href="https://evemonvie.itch.io/cleaner-survivor"> Please, try Cleaner Survivor on Windows!!!</a> I have another game published on that platform named "Heavy Thoughts" but i stopped developing it. <br> <a href="https://www.twitch.tv/Evemonvie"> I´m probably on Twitch right now!.</a>  </p> 
+<p> I´m trying to focus on several areas but mostly back-end web development and videogames development. <b>I already have a game on itch.io!! </b>  <a href="https://evemonvie.itch.io/cleaner-survivor"> Please, try Cleaner Survivor on Windows!!!</a> I have another game published on that platform named "Heavy Thoughts" but i stopped developing it. <br> <a href="https://twitch.tv/Evemonvie"> I´m probably on Twitch right now!.</a>  </p> 
 </div>
 
 ### 
