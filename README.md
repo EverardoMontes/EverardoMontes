@@ -23,7 +23,7 @@
   I´m currently learning:
 - SQL
 - Javascript
-- -Python
+- Python
 - HTML5
 - NodeJs
 - C#
